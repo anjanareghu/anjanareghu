@@ -1,79 +1,91 @@
-<h1 align="center">ANJANA.OS</h1>
-
 <p align="center">
-  <b>AI × Backend × Research</b>
+  <img src="./assets/anjana-os-banner.png" width="100%" alt="ANJANA.OS"/>
 </p>
 
-<p align="center">
-  Building intelligent systems from ideas → production.
-</p>
-
----
-
-## > whoami
+## `> whoami`
 
 ```yaml
-name: Anjana B
-role: AI & Backend Developer
-interests:
-  - Artificial Intelligence
-  - Agentic AI
-  - Backend Development
-  - Multi-Agent Systems
-  - Research
+name: Anjana B.
+focus: AI × Backend × Research
 
-status: "currently building..."
+currently:
+  - building intelligent systems
+  - exploring agentic AI
+  - experimenting with multi-agent architectures
+  - learning every day
 ```
 
-## > current_focus
+<br>
 
-```text
-🤖 Agentic AI
-🧠 Large Language Models
-☁️  Intelligent Cloud Systems
-⚙️  Backend Engineering
-🔬 AI Research
-```
+## `> tech --stack`
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,pytorch,git,github,docker,vscode" />
+</p>
 
-## > selected_builds
+<br>
+
+## `> ls ./selected-builds`
 
 ### ✦ Stellaris AI
-AI-powered recruitment platform leveraging Large Language Models.
 
-`AI` `LLaMA` `Python` `NLP`
+> AI-powered recruitment platform leveraging Large Language Models.
+
+`LLMs` · `LLaMA` · `Python` · `NLP`
+
+---
 
 ### ✦ NeuroWeave
-Exploring deep learning and neurological connectivity.
 
-`Deep Learning` `AI` `Research`
+> Deep-learning based exploration of neurological connectivity.
 
-### ✦ FoodSnap AI
-Intelligent food analysis powered by AI.
-
-`Computer Vision` `Machine Learning` `Python`
+`Deep Learning` · `AI` · `Research`
 
 ---
 
-## > published_work
+### ✦ FoodSnapAI
 
-**Stellaris AI — IEEE ICCPCT 2025**
+> Intelligent food analysis powered by computer vision.
 
-From project → research → publication.
+`Computer Vision` · `Machine Learning` · `Python`
 
----
+<br>
 
-## > ./next
+## `> cat ./research/published.txt`
 
 ```text
-Still learning.
-Still building.
-Probably debugging something right now.
+╭──────────────────────────────────────────╮
+│                                          │
+│             PUBLISHED WORK               │
+│                                          │
+│              STELLARIS AI                │
+│             IEEE ICCPCT 2025             │
+│                                          │
+│       project → research → paper          │
+│                                          │
+╰──────────────────────────────────────────╯
 ```
 
-<p align="center">
-  ◉‿◉
-  <br>
-  <i>go build something.</i>
-</p>
+<br>
+
+## `> system.status`
+
+```text
+learning    ████████████████████  100%
+building    █████████████████░░░   85%
+ideas       ███████████████████░   95%
+
+status      ● ONLINE
+```
+
+<div align="center">
+
+### `> ./next`
+
+*Still learning. Still building.*
+
+**Probably debugging something right now.**
+
+`◉‿◉`
+
+</div>
