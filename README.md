@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/anjana-os-banner.png" width="100%" alt="ANJANA.OS"/>
+  <img src="./anjana-os-banner.png" width="100%" alt="ANJANA.OS"/>
 </p>
 
 ## `> whoami`
